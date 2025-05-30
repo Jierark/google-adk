@@ -1,0 +1,4 @@
+rules/
+.env
+__pycache__/
+venv
