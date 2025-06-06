@@ -3,3 +3,4 @@ rules/
 __pycache__/
 venv
 googlecalendarapi.json
+.DS_Store
