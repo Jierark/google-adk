@@ -6,3 +6,4 @@ requests>=2.31.0
 openai>=1.3.0
 pydantic
 adktools
+feedparser

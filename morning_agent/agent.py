@@ -3,8 +3,8 @@ from google.adk.agents import Agent
 from google.adk.models.lite_llm import LiteLlm
 
 # Import agents to use
-from test_agent.news_agent import news_agent
-from test_agent.trivia_agent import trivia_agent
+from morning_agent.news_agent import news_agent
+from morning_agent.trivia_agent import trivia_agent
 
 # Model to use
 MODEL_OPENAI = "openai/gpt-4.1-2025-04-14"

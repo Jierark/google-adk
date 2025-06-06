@@ -3,7 +3,6 @@
 from dotenv import load_dotenv
 import os
 import requests
-from urllib3 import response
 
 # Accessing project based environment variables
 load_dotenv()

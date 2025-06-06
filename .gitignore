@@ -2,3 +2,4 @@ rules/
 .env
 __pycache__/
 venv
+googlecalendarapi.json
